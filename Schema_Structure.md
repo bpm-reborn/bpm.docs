@@ -2,20 +2,6 @@ Thank you for that clarification. I'll revise the node schema structure descript
 
 # BPM Reborn: Node Schema Structure
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Node Schema Overview](#node-schema-overview)
-3. [Schema Components](#schema-components)
-   - [Metadata](#metadata)
-   - [Properties](#properties)
-   - [Inputs](#inputs)
-   - [Outputs](#outputs)
-   - [Source](#source)
-4. [Example Node Schema](#example-node-schema)
-5. [Custom Node Creation](#custom-node-creation)
-6. [Best Practices](#best-practices)
-
 ## Introduction
 
 In BPM Reborn, nodes are the fundamental building blocks of your mod's logic. Each node type is defined by a schema that describes its behavior, inputs, outputs, and how it interacts with the Lua runtime. Understanding the node schema structure is crucial for both using existing nodes effectively and creating custom nodes.
