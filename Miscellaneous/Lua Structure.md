@@ -1,8 +1,8 @@
-Here's a rewritten onboarding markdown file that describes Lua and workspace structure in depth, with improved formatting:
+# BPM Reborn: Lua Structure Guide
 
-# BPM Reborn: Onboarding Guide
-
+--- 
 ![BPM Reborn Logo](https://i.imgur.com/Ad1iQ6x.png)
+
 
 ## Table of Contents
 
@@ -97,24 +97,8 @@ A BPM Reborn workspace consists of several key components:
 2. **Edges**: Connections between nodes that define data flow.
 3. **Variables**: Global values accessible throughout the workspace.
 4. **Events**: Trigger points for node execution.
-
-### Workspace Hierarchy
-
-```
-Workspace
-│
-├── Nodes
-│   ├── Events
-│   ├── Logic
-│   ├── Math
-│   └── Custom Nodes
-│
-├── Edges
-│
-├── Variables
-│
-└── Events
-```
+5. **Custom Nodes**: User-defined nodes for specialized functionality.
+6. **Lua Code**: Generated from the visual node graph for execution.
 
 ## Node Graph System
 
@@ -165,4 +149,5 @@ return {
 5. **Performance**: Be mindful of performance impact, especially in frequently executed nodes.
 6. **Version Control**: Use version control systems to track changes in your workspaces.
 
+---
 By mastering Lua basics and understanding the workspace structure, you'll be well-equipped to create powerful and efficient mods using BPM Reborn. Happy modding!
