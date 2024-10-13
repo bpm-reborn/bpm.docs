@@ -1,8 +1,7 @@
-Here's a rewritten onboarding markdown file that describes Lua and workspace structure in depth, with improved formatting:
+![BPM Reborn Logo](https://i.imgur.com/Ad1iQ6x.png)
 
 # BPM Reborn: Onboarding Guide
 
-![BPM Reborn Logo](https://i.imgur.com/Ad1iQ6x.png)
 
 ## Table of Contents
 

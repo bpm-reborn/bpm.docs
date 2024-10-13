@@ -1,4 +1,4 @@
-Thank you for that clarification. I'll revise the node schema structure description to use YAML instead of JSON. This adjustment will make the guide more accurate and useful for BPM Reborn users.
+![BPM Reborn Logo](https://i.imgur.com/Ad1iQ6x.png)
 
 # BPM Reborn: Node Schema Structure
 
